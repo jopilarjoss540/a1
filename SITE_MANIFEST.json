@@ -1,0 +1,207 @@
+{
+  "domain": "frameclutchco",
+  "niche": "Haute Leathercraft & Bespoke Frame Clutches",
+  "design_concept": "Urban High-Contrast & Modernist Monochrome",
+  "archetype_id": "urban_high_contrast",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "frameclutchco_asset_1.jpg",
+      "size_kb": 181.4,
+      "md5": "0fb9e7c1caf91820d6fbbb9d642f2130",
+      "description": "miniature sterling silver mesh chat",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "frameclutchco_asset_2.jpg",
+      "size_kb": 234.02,
+      "md5": "26199c3cf51b07153de682363d3a03ea",
+      "description": "miniature sterling silver mesh chat",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "frameclutchco_asset_3.jpg",
+      "size_kb": 306.95,
+      "md5": "d6b4c7289c786da0104addfaf71b103b",
+      "description": "miniature sterling silver mesh chat",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "frameclutchco_asset_4.jpg",
+      "size_kb": 99.88,
+      "md5": "5455f06c86c687c74564c32037c3266f",
+      "description": "miniature sterling silver mesh chat",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "frameclutchco_asset_5.jpg",
+      "size_kb": 169.85,
+      "md5": "c40caa02ba0d3dc5fd9431ff2e21fae4",
+      "description": "miniature sterling silver mesh chat",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "frameclutchco_asset_6.jpg",
+      "size_kb": 213.77,
+      "md5": "3d8249d4a493fe2d67574baaed97ec3d",
+      "description": "miniature sterling silver mesh chat",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "frameclutchco_asset_7.jpg",
+      "size_kb": 241.3,
+      "md5": "5cdc7932e5351ff3d1ecc51e72ae6438",
+      "description": "miniature sterling silver mesh chat",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "frameclutchco_asset_8.jpg",
+      "size_kb": 246.87,
+      "md5": "581c210a4c355bd4116265b1a058577f",
+      "description": "miniature sterling silver mesh chat",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "frameclutchco_asset_9.jpg",
+      "size_kb": 115.67,
+      "md5": "30644e44874629dd929f105b5b7d4e34",
+      "description": "miniature sterling silver mesh chat",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "frameclutchco_asset_10.jpg",
+      "size_kb": 86.76,
+      "md5": "8284d2d5cd4fce6e66f535fdd0133821",
+      "description": "miniature sterling silver mesh chat",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "frameclutchco_asset_11.jpg",
+      "size_kb": 113.4,
+      "md5": "4902fcceeaa01791a511779279dde100",
+      "description": "miniature sterling silver mesh chat",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "frameclutchco_asset_12.jpg",
+      "size_kb": 111.07,
+      "md5": "b10c24a644325f3c4e0fd41ae474605d",
+      "description": "miniature sterling silver mesh chat",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "frameclutchco_asset_13.jpg",
+      "size_kb": 207.13,
+      "md5": "fb877eb03cd9890ac6e92335392b68f9",
+      "description": "miniature sterling silver mesh chat",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "frameclutchco_asset_14.jpg",
+      "size_kb": 170.67,
+      "md5": "1c985046435499138d97a77ee6f87d8f",
+      "description": "miniature sterling silver mesh chat",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "frameclutchco_asset_15.jpg",
+      "size_kb": 223.51,
+      "md5": "46d487d6e5977cab1f86258df82a7991",
+      "description": "miniature sterling silver mesh chat",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "frameclutchco_asset_16.jpg",
+      "size_kb": 77.43,
+      "md5": "45744f6d764e6e3b5b56064cd2510a7e",
+      "description": "miniature sterling silver mesh chat",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "frameclutchco_asset_17.jpg",
+      "size_kb": 38.33,
+      "md5": "b23d6d640ad7b04ea9180986614813b8",
+      "description": "miniature sterling silver mesh chat",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "frameclutchco_asset_18.jpg",
+      "size_kb": 75.56,
+      "md5": "301178d6f352a8362da64fef47feaa2d",
+      "description": "miniature sterling silver mesh chat",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "frameclutchco_asset_19.jpg",
+      "size_kb": 79.21,
+      "md5": "53e525f28617f6291aa46a0942108765",
+      "description": "miniature sterling silver mesh chat",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "frameclutchco_asset_20.jpg",
+      "size_kb": 188.94,
+      "md5": "2a28d5149c2c4ea54862025bf094fbbb",
+      "description": "miniature sterling silver mesh chat",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://frameclutchco.com/sitemap.xml",
+    "robots": "https://frameclutchco.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
